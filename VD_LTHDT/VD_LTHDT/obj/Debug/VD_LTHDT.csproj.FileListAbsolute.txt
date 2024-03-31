@@ -1,0 +1,7 @@
+C:\Users\84373\source\repos\VD_LTHDT\VD_LTHDT\obj\Debug\VD_LTHDT.csproj.AssemblyReference.cache
+C:\Users\84373\source\repos\VD_LTHDT\VD_LTHDT\obj\Debug\VD_LTHDT.csproj.CoreCompileInputs.cache
+C:\Users\84373\source\repos\VD_LTHDT\VD_LTHDT\bin\Debug\VD_LTHDT.exe.config
+C:\Users\84373\source\repos\VD_LTHDT\VD_LTHDT\bin\Debug\VD_LTHDT.exe
+C:\Users\84373\source\repos\VD_LTHDT\VD_LTHDT\bin\Debug\VD_LTHDT.pdb
+C:\Users\84373\source\repos\VD_LTHDT\VD_LTHDT\obj\Debug\VD_LTHDT.exe
+C:\Users\84373\source\repos\VD_LTHDT\VD_LTHDT\obj\Debug\VD_LTHDT.pdb
