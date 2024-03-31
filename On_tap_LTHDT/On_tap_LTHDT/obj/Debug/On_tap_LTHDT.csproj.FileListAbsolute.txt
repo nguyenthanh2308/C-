@@ -1,0 +1,7 @@
+C:\Users\84373\source\repos\On_tap_LTHDT\On_tap_LTHDT\bin\Debug\On_tap_LTHDT.exe.config
+C:\Users\84373\source\repos\On_tap_LTHDT\On_tap_LTHDT\bin\Debug\On_tap_LTHDT.exe
+C:\Users\84373\source\repos\On_tap_LTHDT\On_tap_LTHDT\bin\Debug\On_tap_LTHDT.pdb
+C:\Users\84373\source\repos\On_tap_LTHDT\On_tap_LTHDT\obj\Debug\On_tap_LTHDT.csproj.AssemblyReference.cache
+C:\Users\84373\source\repos\On_tap_LTHDT\On_tap_LTHDT\obj\Debug\On_tap_LTHDT.csproj.CoreCompileInputs.cache
+C:\Users\84373\source\repos\On_tap_LTHDT\On_tap_LTHDT\obj\Debug\On_tap_LTHDT.exe
+C:\Users\84373\source\repos\On_tap_LTHDT\On_tap_LTHDT\obj\Debug\On_tap_LTHDT.pdb
